@@ -1,2 +1,3 @@
 # Hello-World
-Hello World on GItHub
+
+I am an  aspiring software engineer learning to use github
